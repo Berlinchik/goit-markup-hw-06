@@ -821,6 +821,7 @@ footer {
 }
 .modal-label-coment {
   display: block;
+  position: relative;
 }
 
 .modal-icon {
@@ -832,8 +833,8 @@ footer {
   transform: translateY(-50%);
 }
 .modal-wrap {
-  position: relative;
   display: block;
+  position: relative;
 }
 .modal-input {
   width: 100%;
